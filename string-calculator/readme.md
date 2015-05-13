@@ -1,4 +1,4 @@
-[String Calculator]((http://osherove.com/tdd-kata-1/) was bored from: [Roy Osherove](http://osherove.com/)
+[String Calculator](http://osherove.com/tdd-kata-1/) was bored from: [Roy Osherove](http://osherove.com/)
 
 # READ BEFORE YOU START
 - Do not read ahead; not even a single step
